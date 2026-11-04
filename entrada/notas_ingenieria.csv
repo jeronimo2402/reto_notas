@@ -1,0 +1,110 @@
+codigo_estudiante,nombre_estudiante,programa,codigo_asignatura,asignatura,grupo,corte,nota,fecha_registro,docente
+2022001111,Juliana Muñoz Giraldo,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,1,3.1,2026-08-28,Hernán Darío Cifuentes
+2022001111,Juliana Muñoz Giraldo,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,2,3.7,2026-09-22,Hernán Darío Cifuentes
+2022001111,Juliana Muñoz Giraldo,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,3,3.0,2026-10-26,Hernán Darío Cifuentes
+2022001148,Esteban Castaño Hernández,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,1,2.9,2026-08-27,Hernán Darío Cifuentes
+2022001148,Esteban Castaño Hernández,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,2,3.5,2026-09-25,Hernán Darío Cifuentes
+2022001148,Esteban Castaño Hernández,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,3,4.2,2026-10-28,Hernán Darío Cifuentes
+2022001259,Jerónimo Ospina Mejía,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,1,4.0,2026-08-27,Hernán Darío Cifuentes
+2022001259,Jerónimo Ospina Mejía,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,2,2.0,2026-09-23,Hernán Darío Cifuentes
+2022001259,Jerónimo Ospina Mejía,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,3,3.4,2026-10-27,Hernán Darío Cifuentes
+2022001370,Antonia Jaramillo Agudelo,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,1,2.4,2026-08-28,Hernán Darío Cifuentes
+2022001370,Antonia Jaramillo Agudelo,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,2,5.5,2026-09-23,Hernán Darío Cifuentes
+2022001370,Antonia Jaramillo Agudelo,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,3,4.0,2026-10-29,Hernán Darío Cifuentes
+2023001037,Gabriela Duque Castaño,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,1,1.7,2026-08-27,Hernán Darío Cifuentes
+2023001037,Gabriela Duque Castaño,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,2,2.7,2026-09-25,Hernán Darío Cifuentes
+2023001037,Gabriela Duque Castaño,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,3,3.8,2026-10-30,Hernán Darío Cifuentes
+2024001333,Sofía Álvarez Peña,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,1,2.9,2026-08-26,Hernán Darío Cifuentes
+2024001333,Sofía Álvarez Peña,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,2,4.9,2026-09-21,Hernán Darío Cifuentes
+2024001333,Sofía Álvarez Peña,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,3,3.0,2026-10-29,Hernán Darío Cifuentes
+2024001333,Sofía Álvarez Peña,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,2,4.9,2026-09-21,Hernán Darío Cifuentes
+2024001444,Jerónimo Orozco Patiño,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,1,4.2,2026-08-27,Hernán Darío Cifuentes
+2024001444,Jerónimo Orozco Patiño,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,2,3.4,2026-09-22,Hernán Darío Cifuentes
+2024001444,Jerónimo Orozco Patiño,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,4,3.5,2026-10-26,Hernán Darío Cifuentes
+2025001074,Juan José Restrepo Orozco,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,1,2.6,2026-08-25,Hernán Darío Cifuentes
+2025001074,Juan José Restrepo Orozco,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,2,4.3,2026-09-21,Hernán Darío Cifuentes
+2025001074,Juan José Restrepo Orozco,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,3,3.3,2026-10-26,Hernán Darío Cifuentes
+2025001185,Natalia Duque Marín,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,1,1.15,2026-08-28,Hernán Darío Cifuentes
+2025001185,Natalia Duque Marín,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,2,2.7,2026-09-24,Hernán Darío Cifuentes
+2025001185,Natalia Duque Marín,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,3,3.0,2026-10-29,Hernán Darío Cifuentes
+2025001222,Tomás Gutiérrez Gutiérrez,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,1,3.7,2026-08-26,Hernán Darío Cifuentes
+2025001222,Tomás Gutiérrez Gutiérrez,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,2,4.5,2026-09-21,Hernán Darío Cifuentes
+2025001222,Tomás Gutiérrez Gutiérrez,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,3,3.7,2026-10-30,Hernán Darío Cifuentes
+2025001296,Sara Ocampo Ocampo,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,1,4.3,2026-08-28,Hernán Darío Cifuentes
+2025001296,Sara Ocampo Ocampo,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,2,3.8,2026-09-24,Hernán Darío Cifuentes
+2025001296,Sara Ocampo Ocampo,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,3,2.7,2026-10-26,Hernán Darío Cifuentes
+2025001407,Valeria Orozco Londoño,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,1,4.4,2026-08-27,Hernán Darío Cifuentes
+2025001407,Valeria Orozco Londoño,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,2,3.1,2026-09-24,Hernán Darío Cifuentes
+2025001407,Valeria Orozco Londoño,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,1,3,4.5,2026-10-28,Hernán Darío Cifuentes
+2022001740,Santiago Castaño Montoya,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,1,3.8,2026-08-26,Luz Marina Echeverri
+2022001740,Santiago Castaño Montoya,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Calculo diferencial,2,2,3.2,2026-09-21,Luz Marina Echeverri
+2022001740,Santiago Castaño Montoya,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,3,2.5,2026-10-26,Luz Marina Echeverri
+2022001777,Isabella Gutiérrez Gutiérrez,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,1,2.5,2026-08-27,Luz Marina Echeverri
+2022001777,Isabella Gutiérrez Gutiérrez,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,2,2.3,2026-09-22,Luz Marina Echeverri
+2022001777,Isabella Gutiérrez Gutiérrez,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,3,,2026-10-26,Luz Marina Echeverri
+2023001481,Simón Giraldo Henao,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,1,2.3,2026-08-27,Luz Marina Echeverri
+2023001481,Simón Giraldo Henao,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Calculo diferencial,2,2,2.4,2026-09-22,Luz Marina Echeverri
+2023001481,Simón Giraldo Henao,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,3,2.7,2026-10-26,Luz Marina Echeverri
+2023001592,Nicolás Valencia Núñez,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,1,3.5,2026-08-28,Luz Marina Echeverri
+2023001592,Nicolás Valencia Núñez,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,2,3.6,2026-09-22,Luz Marina Echeverri
+2023001592,Nicolás Valencia Núñez,Ingeniería de Sistemas y Telecomunicaciones,ing-101,Cálculo diferencial,2,3,4.0,2026-10-29,Luz Marina Echeverri
+2023001888,Laura Quintero Arango,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,1,2.95,2026-08-28,Luz Marina Echeverri
+2023001888,Laura Quintero Arango,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Calculo diferencial,2,2,3.3,2026-09-22,Luz Marina Echeverri
+2023001888,Laura Quintero Arango,Ingeniería de Sistemas y Telecomunicaciones,Ing-101 ,Cálculo diferencial,2,3,3.2,2026-10-29,Luz Marina Echeverri
+2024001518,Gabriela Gómez Ríos,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,1,2.8,2026-08-25,Luz Marina Echeverri
+2024001518,Gabriela Gómez Ríos,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,2,1.9,2026-09-21,Luz Marina Echeverri
+2024001518,Gabriela Gómez Ríos,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,3,1.6,2026-10-26,Luz Marina Echeverri
+2024001814,Valentina Núñez Duque,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,1,3.2,2026-08-28,Luz Marina Echeverri
+2024001814,Valentina Núñez Duque,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Calculo diferencial,2,2,3.0,2026-09-25,Luz Marina Echeverri
+2024001814,Valentina Núñez Duque,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,3,2.4,2026-10-30,Luz Marina Echeverri
+2025001555,Sofía Muñoz Duque,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,1,3.6,2026-08-27,Luz Marina Echeverri
+2025001555,Sofía Muñoz Duque,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,2,2.2,2026-09-24,Luz Marina Echeverri
+2025001555,Sofía Muñoz Duque,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,3,3.5,2026-10-26,Luz Marina Echeverri
+2025001629,Juan José Ocampo Giraldo,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,1,2.3,2026-08-26,Luz Marina Echeverri
+2025001629,Juan José Ocampo Giraldo,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,2,3.2,2026-09-21,Luz Marina Echeverri
+2025001629,Juan José Ocampo Giraldo,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,3,2.7,2026-10-29,Luz Marina Echeverri
+2025001666,Alejandro Zuluaga Álvarez,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,1,3.5,2026-08-26,Luz Marina Echeverri
+2025001666,Alejandro Zuluaga Álvarez,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,2,1.7,2026-09-24,Luz Marina Echeverri
+2025001666,Alejandro Zuluaga Álvarez,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,3,2.9,2026-10-29,Luz Marina Echeverri
+2025001703,Emilio Arango Henao,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,1,2.3,2026-08-26,Luz Marina Echeverri
+2025001703,Emilio Arango Henao,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,2,3.0,2026-09-24,Luz Marina Echeverri
+2025001703,Emilio Arango Henao,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,3,3.8,2026-10-29,Luz Marina Echeverri
+2025001851,Simón Duque Londoño,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,1,2.0,2026-08-26,Luz Marina Echeverri
+2025001851,Simón Duque Londoño,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,2,2.6,2026-09-22,Luz Marina Echeverri
+2025001851,Simón Duque Londoño,Ingeniería de Sistemas y Telecomunicaciones,ING-101,Cálculo diferencial,2,3,2.7,2026-10-30,Luz Marina Echeverri
+2022001148,Esteban Castaño Hernández,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,1,3.9,2026-08-26,Jorge Iván Betancur
+2022001148,Esteban Castaño Hernández,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,2,3.8,2026-09-24,Jorge Iván Betancur
+2022001148,Esteban Castaño Hernández,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,3,3.5,27/10/2026,Jorge Iván Betancur
+2022001370,Antonia Jaramillo Agudelo,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,1,2.7,2026-08-25,Jorge Iván Betancur
+2022001370,Antonia Jaramillo Agudelo,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,2,3.5,2026-09-23,Jorge Iván Betancur
+2022001370,Antonia Jaramillo Agudelo,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,3,3.3,2026-10-26,Jorge Iván Betancur
+202300457,Laura Quintero Arango,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,1,4.1,2026-08-24,Jorge Iván Betancur
+2023001888,Laura Quintero Arango,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,2,4.3,2026-09-23,Jorge Iván Betancur
+2023001888,Laura Quintero Arango,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,3,2.8,2026-10-28,Jorge Iván Betancur
+2024001444,Jerónimo Orozco Patiño,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,1,4.1,24/08/2026,Jorge Iván Betancur
+2024001444,Jerónimo Orozco Patiño,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,2,3.3,2026-09-22,Jorge Iván Betancur
+2024001444,Jerónimo Orozco Patiño,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,3,1.7,2026-10-30,Jorge Iván Betancur
+2024001814,Valentina Núñez Duque,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,1,3.5,2026-08-24,Jorge Iván Betancur
+2024001814,Valentina Núñez Duque,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,2,3.9,2026-09-25,Jorge Iván Betancur
+2024001814,Valentina Núñez Duque,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,3,5.0,2026-10-30,Jorge Iván Betancur
+2024004321,Maria Fernanda Lopez Arcila,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,1,3.8,2026-08-27,Jorge Iván Betancur
+2024004321,Maria Fernanda Lopez Arcila,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,2,2.7,2026-09-24,Jorge Iván Betancur
+2024004321,Maria Fernanda Lopez Arcila,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,3,4.25,2026-10-27,Jorge Iván Betancur
+2025001074,Juan José Restrepo Orozco,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,1,3.5,2026-08-26,Jorge Iván Betancur
+2025001074,Juan José Restrepo Orozco,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,2,2.8,2026-09-24,Jorge Iván Betancur
+2025001074,Juan José Restrepo Orozco,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,3,3.0,2026-10-30,Jorge Iván Betancur
+2025001185,Natalia Duque Marín,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,1,3.5,2026-08-24,Jorge Iván Betancur
+2025001185,Natalia Duque Marín,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,2,3.8,2026-09-21,Jorge Iván Betancur
+2025001185,Natalia Duque Marín,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,3,3.9,2026-10-26,Jorge Iván Betancur
+2025001222,Tomás Gutiérrez Gutiérrez,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,1,3.4,2026-08-24,Jorge Iván Betancur
+2025001222,Tomás Gutiérrez Gutiérrez,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,2,4.2,2026-09-23,Jorge Iván Betancur
+2025001222,Tomás Gutiérrez Gutiérrez,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,3,4.3,2026-10-28,Jorge Iván Betancur
+2025001407,Valeria Orozco Londoño,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,1,3.7,2026-08-26,Jorge Iván Betancur
+2025001407,Valeria Orozco Londoño,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,2,3.0,2026-09-21,Jorge Iván Betancur
+2025001407,Valeria Orozco Londoño,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,3,4.0,2026-10-30,Jorge Iván Betancur
+2025001629,Juan José Ocampo Giraldo,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,1,3.2,2026-08-26,Jorge Iván Betancur
+2025001629,Juan José Ocampo Giraldo,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,2,3.4,2026-09-23,Jorge Iván Betancur
+2025001629,Juan José Ocampo Giraldo,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,3,2.4,2026-10-26,Jorge Iván Betancur
+2025001851,Simón Duque Londoño,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,1,3.3,2026-08-27,Jorge Iván Betancur
+2025001851,Simón Duque Londoño,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,2,4.8,2026-09-21,Jorge Iván Betancur
+2025001851,Simón Duque Londoño,Ingeniería de Sistemas y Telecomunicaciones,ING-205,"Bases de datos, nivel I",1,3,4.0,2026-10-29,Jorge Iván Betancur

@@ -1,0 +1,3 @@
+# Los CSV de entrada se guardan byte a byte: Git no debe cambiar sus finales de línea (CRLF/LF)
+# ni su codificación, porque el proceso debe leerlos tal como llegan.
+*.csv -text
